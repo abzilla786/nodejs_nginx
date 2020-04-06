@@ -1,4 +1,4 @@
-# Nodejs and Nginx Cookbook eng54 :cat: :taco: :y: :monkey:
+# Nodejs and Nginx Cookbook eng54 :cat: :taco: :(y): :monkey:
 
 this cookbook will install nodejs and Nginx
 
