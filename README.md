@@ -4,6 +4,13 @@ this cookbook will install nodejs and Nginx
 
 To use it import it in your own cookbook and run it in the recipes
 
+## Learning outcomes:
+- Git, Github
+- Documentation
+- chef, inspec, chefspec
+- importing cookbooks (will require our search)
+- attributes and templates
+
 
 ## Installation
 
