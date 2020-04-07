@@ -10,6 +10,7 @@ To use it import it in your own cookbook and run it in the recipes
 - chef, inspec, chefspec
 - importing cookbooks (will require our search)
 - attributes and templates
+- TDD
 
 
 ## Installation
@@ -27,3 +28,17 @@ To run integration test:
 ```
   kitchen test
 ```
+
+## ERB and ice-cream cones <% %> and <=% %=>
+
+ERB is embed ruby
+
+meaning you can interpolate variables or run ruby code
+
+It can then be converted to a string
+
+ERB is like the f'this is python {hello} ' but for entire documents!
+
+#### <% %> allow ruby with no output
+
+#### <%= %> allows ruby with output (I mean like printing to the documents)
